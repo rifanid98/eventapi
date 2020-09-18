@@ -28,6 +28,7 @@
     - Type and run this command `npm start` to start the server.
     - Make sure there are no other processes that use port 3000
 5. Run app with api testing tools like postman, etc. on http://localhost:3000/event/api/v1/ or using local ip like http://192.168.43.88:3000/event/api/v1/ as an example.
+6. Don't forget to change .env variable value to your own config.
 
 ## Features
 
